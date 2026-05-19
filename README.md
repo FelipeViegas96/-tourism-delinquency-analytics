@@ -59,7 +59,7 @@ financeiros no setor de turismo.
 
 O arquivo **.pbix** está disponível no Google Drive devido ao tamanho:
 
-👉 [Clique aqui para acessar o projeto](COLE_SEU_LINK_AQUI)
+👉 [Clique aqui para acessar o projeto](https://drive.google.com/file/d/14iU4MSSaMKLljpFF3tlLIwI3nzeNMHyj/view?usp=sharing)
 
 ---
 
